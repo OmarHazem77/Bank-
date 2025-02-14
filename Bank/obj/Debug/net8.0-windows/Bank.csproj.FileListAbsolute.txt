@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Bank\Bank\bin\Debug\net8.0-windows\Bank.exe
+C:\Users\HP\source\repos\Bank\Bank\bin\Debug\net8.0-windows\Bank.deps.json
+C:\Users\HP\source\repos\Bank\Bank\bin\Debug\net8.0-windows\Bank.runtimeconfig.json
+C:\Users\HP\source\repos\Bank\Bank\bin\Debug\net8.0-windows\Bank.dll
+C:\Users\HP\source\repos\Bank\Bank\bin\Debug\net8.0-windows\Bank.pdb
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.Form1.resources
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.AssemblyInfo.cs
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.dll
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\refint\Bank.dll
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.pdb
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\Bank.genruntimeconfig.cache
+C:\Users\HP\source\repos\Bank\Bank\obj\Debug\net8.0-windows\ref\Bank.dll
